@@ -1,0 +1,9 @@
+#compiled executable 
+msh 
+
+# Test files
+test*.txt
+
+# Build artifacts
+*.o
+
